@@ -1,6 +1,8 @@
 #  🚴‍♂️Excel-Project-Bicycle_Shop_Sales_Analysis📊
 
-Welcome to the **Bicycle Shop Sales Analysis** project! This repository contains a comprehensive sales analysis performed using **Microsoft Excel** to explore and visualize data for a fictional bicycle retail business.
+Welcome to the **Bicycle Shop Sales Analysis** project! 
+
+This repository contains a comprehensive sales analysis performed using **Microsoft Excel** to explore and visualize data for a fictional bicycle retail business.
 
 ---
 
